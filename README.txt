@@ -1,34 +1,17 @@
-Escape Velocity by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Jen Wong – Personal Projects Portfolio
 
+Overview
+This is my personal portfolio showcasing projects I've worked on, featuring a clean and responsive design. The site includes highlights of my work in software development, tech innovation, and startup ecosystem building.
 
-A new responsive template featuring a flat (but not too flat) minimalistic design, spacious
-layout, and styling for all basic page elements. Its demo images* are courtesy of the supremely
-talented photographer Felicia Simion. If you like photography or just enjoy being blown away by
-awesome stuff, check out her portfolio for more stunning images:
+Features
+- Project Showcase – A collection of my software engineering and tech projects.
+- About Me – Insights into my background, skills, and experience.
+- Contact – Ways to connect and collaborate.
 
-http://ineedchemicalx.deviantart.com/
+Credits
+- This portfolio is based on the Escape Velocity template by HTML5 UP, licensed under CC BY 3.0.
+- Icons by Font Awesome.
+- JavaScript utilities from jQuery and Responsive Tools.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+License
+This portfolio follows the Creative Commons Attribution 3.0 license due to the use of HTML5 UP's Escape Velocity template.
