@@ -2058,8 +2058,8 @@ input, select, textarea {
 		background: url("../../images/banner.jpg") center center;
 		background-size: cover;
 		padding: 0;
-		margin-bottom: 50px;
-		padding-bottom: 50px;
+		margin-bottom: 30px;
+		padding-bottom: 30px;
 	}
 
 		#header:before {
